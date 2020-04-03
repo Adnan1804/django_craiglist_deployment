@@ -1,1 +1,1 @@
-web: gunicorn git_things_2.wsgi
+web: gunicorn git_things_2.wsgi 
